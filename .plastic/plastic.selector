@@ -1,0 +1,4 @@
+repository "Fish_Collector@Asakasaa@cloud"
+  path "/"
+    br "/main"
+    co "/main"
